@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+char arr[5]={'a','t','l','a','s'};
+for(int i=0;i<5;i++){
+printf("%c",arr[i]);
+}
+}
