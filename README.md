@@ -1,6 +1,6 @@
 # Basic C Programming Journey
 
-Welcome to my C programming repository! This repository contains my daily practice codes, foundational programming concepts, and problem-solving examples written in **C language**.
+Welcome to my C programming repository! This repository contains my daily and academic practice codes, foundational programming concepts, and problem-solving examples written in **C language**.
 
 ---
 
