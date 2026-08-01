@@ -23,5 +23,4 @@ Here is a breakdown of the topics covered in this repository:
 To run any of the `.c` files on your local machine:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/AARLearner/Basic-C-programming.git](https://github.com/AARLearner/Basic-C-programming.git)
+   git clone https://github.com/AARLearner/Basic-C-programming.git
